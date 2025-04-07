@@ -7,14 +7,14 @@ body{
 
 .caixa{
     display: grid;
-    border-radius: 1rem; /* Borda arredondada mais sutil */
+    border-radius: 1rem; 
     padding: 3rem;
-    background-color: #6a4e7c; /* Cor roxa suave */
+    background-color: #6a4e7c; 
     height: 50vh;
     width: 30vh;
-    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1); /* Sombra sutil para profundidade */
-    overflow-y: auto; /* Adiciona barra de rolagem */
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Animação suave ao interagir */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1); 
+    overflow-y: auto;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 button{
